@@ -1,0 +1,26 @@
+.amount {
+  text-align: right;
+}
+.vxe-header--row {
+  th {
+    text-align: center!important;
+  }
+}
+.row-sum {
+  background-color: #f9f9f9;
+  font-weight: bold;
+  text-align: right!important;
+}
+.row--current {
+  background-color: #e5f2ff !important;
+}
+.vxe-table--body-wrapper {
+  height: calc(100vh - 300px);
+  overflow: auto;
+}
+.col--edit {
+  text-align: right!important;
+}
+.table-menu-class {
+  z-index: 3001!important;
+}
